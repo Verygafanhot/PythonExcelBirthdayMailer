@@ -18,7 +18,7 @@ Give it a nice name and click create
 
 <img width="500" alt="imagem" src="https://github.com/Verygafanhot/PythonExcelBirthdayMailer/assets/63465951/08b3810f-92aa-42a9-973b-6e4e200bac95">
 
-It will then give you a code!<
+It will then give you a code!
 
 ## Running
 
