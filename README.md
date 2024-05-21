@@ -20,6 +20,15 @@ Give it a nice name and click create
 
 It will then give you a code!
 
+Finally and most importantly open the excel file called birthday.xlsx
+
+There you will find 3 example birthdays, you can get rid of them and use your own!
+
+<img width="1434" alt="imagem" src="https://github.com/Verygafanhot/PythonExcelBirthdayMailer/assets/63465951/6004f285-5f79-47ee-b014-057c6ad8dce8">
+
+### Don't remove the "END", move it to right after the last user on your list as shown in the included example
+
+
 ## Running
 
 ```bash
