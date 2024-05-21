@@ -84,7 +84,7 @@ def job():
     asyncio.run(main())
 
 
-# Agendar o trabalho para 8AM todos os dias
+# Run it every day
 schedule.every().day.at("08:00").do(job)
 
 while True:
